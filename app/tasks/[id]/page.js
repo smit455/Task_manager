@@ -1,4 +1,3 @@
-// app/tasks/[id]/page.js
 import clientPromise from '../../../lib/mongodb';
 import { ObjectId } from 'mongodb';
 import UpdateTaskForm from '../../../components/UpdateTaskForm';
